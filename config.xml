@@ -25,7 +25,6 @@
     <gap:platform name="android" />
     
     <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
-    <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
     <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.8" />
     <gap:plugin name="org.apache.cordova.camera" version="0.3.2" />
     <gap:plugin name="org.apache.cordova.contacts" version="0.2.13" />
@@ -64,6 +63,9 @@
     <icon src="res/icon/ios/icon-72.png" gap:platform="ios" width="72" height="72" />
     <icon src="res/icon/ios/icon-57-2x.png" gap:platform="ios" width="114" height="114" />
     <icon src="res/icon/ios/icon-72-2x.png" gap:platform="ios" width="144" height="144" />
+    <icon src="res/icon/ios/icon-76.png" gap:platform="ios" width="76" height="76" />
+    <icon src="res/icon/ios/icon-76-2x.png" gap:platform="ios" width="152" height="152" />
+    <icon src="res/icon/ios/icon-60-2x.png" gap:platform="ios" width="120" height="120" />
 
     <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi" />
